@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": "2025-10-04T07:32:17.4245507Z",
+    "message": "First blockchain log entry",
+    "signature": "d7f0394a591588b30a52e5c9146457a4025546d7e33c0e8fb5db5ece3df23dacc312fa98f478319f6cd8581426506cbb20c116a8b91ef07c4d4f2bafe1c44a06",
+    "pubkey": "a1dbcfef8e1366fb829535ad3918c69c95855fe2ab2db3cf900ae76960f9a138",
+    "prev_hash": "0",
+    "current_hash": "fb5ddbd9fe40b24cad254148933e87a7c46e1bdd9342473072d3feac709b1182",
+    "metadata": {
+      "hostname": "AMSHITH",
+      "user": ""
+    }
+  },
+  {
+    "timestamp": "2025-10-04T07:55:37.2872209Z",
+    "message": "Local log entry 1",
+    "signature": "e66fd524ab2be9c2d6ccc37717ca659f118d3dd84e5f532c82e9d1f3f8516afad6574ff766b080a5238992e994296937688552cabefcdfc3a5b6cc066e76a303",
+    "pubkey": "e856fe43828e65277384faaa406436a4cd09bea547fde759beeab9651e76751d",
+    "prev_hash": "fb5ddbd9fe40b24cad254148933e87a7c46e1bdd9342473072d3feac709b1182",
+    "current_hash": "e3fc1512cde907fe7cd1f15848411ab80dc45c1f2ff1af9bce652672506afb83",
+    "metadata": {
+      "hostname": "AMSHITH",
+      "user": ""
+    }
+  },
+  {
+    "timestamp": "2025-10-04T07:55:48.9059386Z",
+    "message": "Local log entry 2",
+    "signature": "2f1b97d3ee8da6a2eb1f3db96e68ae351a1b559ee805b521d4d943647748beb6a5b4e44d2b58754e3702baefce54521eaa705889f1e828ea8ff85efd892da306",
+    "pubkey": "e856fe43828e65277384faaa406436a4cd09bea547fde759beeab9651e76751d",
+    "prev_hash": "e3fc1512cde907fe7cd1f15848411ab80dc45c1f2ff1af9bce652672506afb83",
+    "current_hash": "4af34ada5230b69a1c94e443fe3ace1a60e143d16276e470daea0e5fb6c0677e",
+    "metadata": {
+      "hostname": "AMSHITH",
+      "user": ""
+    }
+  },
+  {
+    "timestamp": "2025-10-04T07:55:56.4399877Z",
+    "message": "Local log entry 3",
+    "signature": "dc51c9787bb1cfa9f788c265341928a0003d3111ed05d19161e65a1d6196368c6c9bc1cae4fad373380093b64ee3879c51b59ab16b3dc3f87e252bc09a909905",
+    "pubkey": "e856fe43828e65277384faaa406436a4cd09bea547fde759beeab9651e76751d",
+    "prev_hash": "4af34ada5230b69a1c94e443fe3ace1a60e143d16276e470daea0e5fb6c0677e",
+    "current_hash": "49a66900c103e38d0f962c8e34d264550a2f1bc02871fe1ab983e60cf8975a69",
+    "metadata": {
+      "hostname": "AMSHITH",
+      "user": ""
+    }
+  }
+]

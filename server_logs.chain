@@ -1,0 +1,522 @@
+{
+  "entries": [
+    {
+      "timestamp": "2025-10-04T07:48:17.0132816Z",
+      "message": "Hello Server!",
+      "signature": "45bb6dd2c1f6e1f655a906c5202506fbbc97e3c019cb632f5305f87e1e9d0982ff62435858755514ee0c117172d1dd63e0805fdea51643af9e59d43229f9860e",
+      "pubkey": "e856fe43828e65277384faaa406436a4cd09bea547fde759beeab9651e76751d",
+      "prev_hash": "0",
+      "current_hash": "e6f24f35040278084f857f6bed0977c1d82def7935863d10839ff217a353ef61",
+      "metadata": {
+        "agent_id": "-AMSHITH",
+        "hostname": "AMSHITH",
+        "server_received": "2025-10-04T07:48:17.0132816Z",
+        "user": ""
+      }
+    },
+    {
+      "timestamp": "2025-10-04T07:54:37.9577941Z",
+      "message": "Laptop: User logged in",
+      "signature": "5ae95719870c16dcaf982bc1c1ef2a930f3c7095e95509904eeffa3428ea2c1a78babf1df1dbef6004835fca04b670468b08880ccee25c5d0f60aefcdbbdda0c",
+      "pubkey": "e856fe43828e65277384faaa406436a4cd09bea547fde759beeab9651e76751d",
+      "prev_hash": "e6f24f35040278084f857f6bed0977c1d82def7935863d10839ff217a353ef61",
+      "current_hash": "f6016671b7fdf547bc04bca030255f149997dcbcda6fb4aad0ce8925234662f1",
+      "metadata": {
+        "agent_id": "-AMSHITH",
+        "hostname": "AMSHITH",
+        "server_received": "2025-10-04T07:54:37.9577941Z",
+        "user": ""
+      }
+    },
+    {
+      "timestamp": "2025-10-04T07:54:54.7070552Z",
+      "message": "Laptop: File encrypted",
+      "signature": "1b1e67ab106da531ead9ae832e77825b033b21f26fba35ef15bbe64e946906cff56157e917a0a660273e82e4dc08ea29e2f84a2f676f96e8a40351ed20343906",
+      "pubkey": "e856fe43828e65277384faaa406436a4cd09bea547fde759beeab9651e76751d",
+      "prev_hash": "f6016671b7fdf547bc04bca030255f149997dcbcda6fb4aad0ce8925234662f1",
+      "current_hash": "082da4edbee5d338ece119dafce18bc1ef7c793b6ee7ad8241ef8aeb0f0bbc79",
+      "metadata": {
+        "agent_id": "-AMSHITH",
+        "hostname": "AMSHITH",
+        "server_received": "2025-10-04T07:54:54.7070552Z",
+        "user": ""
+      }
+    },
+    {
+      "timestamp": "2025-10-04T07:55:04.0620421Z",
+      "message": "Server: Database backup started",
+      "signature": "38ab4ce18f6064dd863d276d503041d1104416b640a1c4cfafee4f5a1b6a5a9e7077100c33eea31fcd825b2f0d52dea0332c495c357419d973d224f802b7bf08",
+      "pubkey": "e856fe43828e65277384faaa406436a4cd09bea547fde759beeab9651e76751d",
+      "prev_hash": "082da4edbee5d338ece119dafce18bc1ef7c793b6ee7ad8241ef8aeb0f0bbc79",
+      "current_hash": "21e3b2471545d7620aadc7483342d827a2d7ccb4fd33378b790b8b3f5830ee86",
+      "metadata": {
+        "agent_id": "-AMSHITH",
+        "hostname": "AMSHITH",
+        "server_received": "2025-10-04T07:55:04.0620421Z",
+        "user": ""
+      }
+    },
+    {
+      "timestamp": "2025-10-04T07:55:11.7595314Z",
+      "message": "Server: Backup completed",
+      "signature": "ff94c7a655b941cfbc2bcaec2c46043abb2e5c23ff6c64c3b78d6a5ad1da3a4502c5022960b618b5a78db0bcfd29a57f491cef2d9c9e8cddb609e09465271f00",
+      "pubkey": "e856fe43828e65277384faaa406436a4cd09bea547fde759beeab9651e76751d",
+      "prev_hash": "21e3b2471545d7620aadc7483342d827a2d7ccb4fd33378b790b8b3f5830ee86",
+      "current_hash": "e92544f66434fec2ceae3995a75b5d780bd2e21e8cf2f9d957d233fd1bde50fc",
+      "metadata": {
+        "agent_id": "-AMSHITH",
+        "hostname": "AMSHITH",
+        "server_received": "2025-10-04T07:55:11.7595314Z",
+        "user": ""
+      }
+    },
+    {
+      "timestamp": "2025-10-04T07:56:22.2083003Z",
+      "message": "Server log entry 1",
+      "signature": "656f4bee82a60237372b6a83c4bfd4a1d75b2ee4bd318c95a056458a43aa6777734dae22e20247f88dc26efb9f4283b5308e642168fd7adadc34fed06c7ca807",
+      "pubkey": "e856fe43828e65277384faaa406436a4cd09bea547fde759beeab9651e76751d",
+      "prev_hash": "e92544f66434fec2ceae3995a75b5d780bd2e21e8cf2f9d957d233fd1bde50fc",
+      "current_hash": "bb23093f1badd01ad9eb0bd2a92e4edc885da39c43c88533553ff13c042f3a90",
+      "metadata": {
+        "agent_id": "-AMSHITH",
+        "hostname": "AMSHITH",
+        "server_received": "2025-10-04T07:56:22.2083003Z",
+        "user": ""
+      }
+    },
+    {
+      "timestamp": "2025-10-04T07:56:30.697984Z",
+      "message": "Server log entry 1",
+      "signature": "656f4bee82a60237372b6a83c4bfd4a1d75b2ee4bd318c95a056458a43aa6777734dae22e20247f88dc26efb9f4283b5308e642168fd7adadc34fed06c7ca807",
+      "pubkey": "e856fe43828e65277384faaa406436a4cd09bea547fde759beeab9651e76751d",
+      "prev_hash": "bb23093f1badd01ad9eb0bd2a92e4edc885da39c43c88533553ff13c042f3a90",
+      "current_hash": "47450e05c876082eb54f19ba5d6439e89927114d07fbed2c9f559f9540b8bcf2",
+      "metadata": {
+        "agent_id": "-AMSHITH",
+        "hostname": "AMSHITH",
+        "server_received": "2025-10-04T07:56:30.697984Z",
+        "user": ""
+      }
+    },
+    {
+      "timestamp": "2025-10-04T08:05:52.5658982Z",
+      "message": "Log at time 1",
+      "signature": "59428d5a09e4c954324a78ce04b1778513024ed412e85f8ae3b0d6fee80ab2e1afddbaf7249bd7be18d919e08d5a83f45afe979654dc68ce6c0f87f35df04807",
+      "pubkey": "e856fe43828e65277384faaa406436a4cd09bea547fde759beeab9651e76751d",
+      "prev_hash": "47450e05c876082eb54f19ba5d6439e89927114d07fbed2c9f559f9540b8bcf2",
+      "current_hash": "d9360a0be01c785570d6110fa46eff693b28f76882f0341d2ed6c467b9b0d10d",
+      "metadata": {
+        "agent_id": "-AMSHITH",
+        "hostname": "AMSHITH",
+        "server_received": "2025-10-04T08:05:52.5658982Z",
+        "user": ""
+      }
+    },
+    {
+      "timestamp": "2025-10-04T08:06:04.489414Z",
+      "message": "Log at time 2",
+      "signature": "5926e88527e58f22ec1400190abeb66c25f57f6a5c39ac7fbafcbc49794b32e688071933a5a8a8612ef227c11318e6455d92feb0195599f44f7adb40ceb96a0e",
+      "pubkey": "e856fe43828e65277384faaa406436a4cd09bea547fde759beeab9651e76751d",
+      "prev_hash": "d9360a0be01c785570d6110fa46eff693b28f76882f0341d2ed6c467b9b0d10d",
+      "current_hash": "8810ddf2526d034f910818f9d605271f83b80df6341796a389ba0e2e8f43d629",
+      "metadata": {
+        "agent_id": "-AMSHITH",
+        "hostname": "AMSHITH",
+        "server_received": "2025-10-04T08:06:04.489414Z",
+        "user": ""
+      }
+    },
+    {
+      "timestamp": "2025-10-04T08:06:12.7760385Z",
+      "message": "Log at time 3",
+      "signature": "1b5196730ff87bb82ff8d72c6a6c9f31bda830ff2349c0ec17a0777add297b3465297699b6634da84ccb966edce4f6f235044d72563ea65bc73ca0176ac41a09",
+      "pubkey": "e856fe43828e65277384faaa406436a4cd09bea547fde759beeab9651e76751d",
+      "prev_hash": "8810ddf2526d034f910818f9d605271f83b80df6341796a389ba0e2e8f43d629",
+      "current_hash": "6c3a44046ad494733ed25b90c090a24d3390d7b4d5ccd49f5c4907b46f48fb85",
+      "metadata": {
+        "agent_id": "-AMSHITH",
+        "hostname": "AMSHITH",
+        "server_received": "2025-10-04T08:06:12.7760385Z",
+        "user": ""
+      }
+    },
+    {
+      "timestamp": "2025-10-04T08:12:08.5837842Z",
+      "message": "Stress test log 1",
+      "signature": "5a734a5f43cec5ccd8b1d3002bacc5899d6055c9736c937c2a2b9b1a57e76f30b3d0727da28faab9e4b0dd7b86072f88fd78e1079a0febc06f532f95e2d28609",
+      "pubkey": "e856fe43828e65277384faaa406436a4cd09bea547fde759beeab9651e76751d",
+      "prev_hash": "6c3a44046ad494733ed25b90c090a24d3390d7b4d5ccd49f5c4907b46f48fb85",
+      "current_hash": "048e56970c47bad8559ee5c503c86008d060ff05044fadbdd70340fd4b9e8cc8",
+      "metadata": {
+        "agent_id": "-AMSHITH",
+        "hostname": "AMSHITH",
+        "server_received": "2025-10-04T08:12:08.5837842Z",
+        "user": ""
+      }
+    },
+    {
+      "timestamp": "2025-10-04T08:12:08.623836Z",
+      "message": "Stress test log 2",
+      "signature": "e65d6c607f57d4df36a89f6ace77fb4494245de41ca23bbfdc80ade19b348b058ce10aadf47fea3cefc2010e202ed5af5bce50fbbd52555387c1ae392d4df202",
+      "pubkey": "e856fe43828e65277384faaa406436a4cd09bea547fde759beeab9651e76751d",
+      "prev_hash": "048e56970c47bad8559ee5c503c86008d060ff05044fadbdd70340fd4b9e8cc8",
+      "current_hash": "e99041d8c43b479ed0ceec7cfa22ab8821ecfb9842c83428c8457eb68b15d7f5",
+      "metadata": {
+        "agent_id": "-AMSHITH",
+        "hostname": "AMSHITH",
+        "server_received": "2025-10-04T08:12:08.623836Z",
+        "user": ""
+      }
+    },
+    {
+      "timestamp": "2025-10-04T08:12:08.6593975Z",
+      "message": "Stress test log 3",
+      "signature": "4f27ac486081c24594f6733862f2c9a738f4c883b8cade434b745bb83452a8671b6f149e19d793950926336a4d9cbee10da587b0ec5aeddd9fabedcb15520f0b",
+      "pubkey": "e856fe43828e65277384faaa406436a4cd09bea547fde759beeab9651e76751d",
+      "prev_hash": "e99041d8c43b479ed0ceec7cfa22ab8821ecfb9842c83428c8457eb68b15d7f5",
+      "current_hash": "feeea4958a8313f9ab556bcd20c767768afcf2225323d3c10ce2996230f2d422",
+      "metadata": {
+        "agent_id": "-AMSHITH",
+        "hostname": "AMSHITH",
+        "server_received": "2025-10-04T08:12:08.6593975Z",
+        "user": ""
+      }
+    },
+    {
+      "timestamp": "2025-10-04T08:12:08.6981295Z",
+      "message": "Stress test log 4",
+      "signature": "452a3970290e3b1e8c6795aba009255c2ab19457aa729aa22bc315b67a7b0c7fa7df4a72559bdcf84cf1b94f5333722d38d724f75a78f781ecb608af9b9ec80f",
+      "pubkey": "e856fe43828e65277384faaa406436a4cd09bea547fde759beeab9651e76751d",
+      "prev_hash": "feeea4958a8313f9ab556bcd20c767768afcf2225323d3c10ce2996230f2d422",
+      "current_hash": "e4aeb323739b3dcd81749c3a430b8a122bb63ab05edaaf71aa45dd73e7a13321",
+      "metadata": {
+        "agent_id": "-AMSHITH",
+        "hostname": "AMSHITH",
+        "server_received": "2025-10-04T08:12:08.6981295Z",
+        "user": ""
+      }
+    },
+    {
+      "timestamp": "2025-10-04T08:12:08.7336083Z",
+      "message": "Stress test log 5",
+      "signature": "7b66c60858b9fd92ae8b5c580a0bc59fc5d1b05e56d8cf3e795d55a6efe61c24d2005b2738061c5d41032afff34e393155374794f0f65b7b96872876567af70b",
+      "pubkey": "e856fe43828e65277384faaa406436a4cd09bea547fde759beeab9651e76751d",
+      "prev_hash": "e4aeb323739b3dcd81749c3a430b8a122bb63ab05edaaf71aa45dd73e7a13321",
+      "current_hash": "9e14782b6224766082b38739501ba7a496e304ce41a1b617e5b880e5fd982f39",
+      "metadata": {
+        "agent_id": "-AMSHITH",
+        "hostname": "AMSHITH",
+        "server_received": "2025-10-04T08:12:08.7336083Z",
+        "user": ""
+      }
+    },
+    {
+      "timestamp": "2025-10-04T08:12:08.7686029Z",
+      "message": "Stress test log 6",
+      "signature": "642ce05bca411a3e3f8e94876ab6d472cfccbe51d93c4ed525711ee65c8ccc2a95d18c640ec39d914a426b5cd313c649a02afb2c04647aa45f239561a038ac0c",
+      "pubkey": "e856fe43828e65277384faaa406436a4cd09bea547fde759beeab9651e76751d",
+      "prev_hash": "9e14782b6224766082b38739501ba7a496e304ce41a1b617e5b880e5fd982f39",
+      "current_hash": "89e017acc40c4e1fb171e5f4dffb48e6718e81633e640fdd16bd1287633d72cd",
+      "metadata": {
+        "agent_id": "-AMSHITH",
+        "hostname": "AMSHITH",
+        "server_received": "2025-10-04T08:12:08.7686029Z",
+        "user": ""
+      }
+    },
+    {
+      "timestamp": "2025-10-04T08:12:08.8063905Z",
+      "message": "Stress test log 7",
+      "signature": "7653859574e0b70fca9c8608637d48f79694700e69952d6b6e24fdd2ef6fd94fd03d8d01c5863920987dc774f08d871d299f81bde625be100cebcbb433909c0a",
+      "pubkey": "e856fe43828e65277384faaa406436a4cd09bea547fde759beeab9651e76751d",
+      "prev_hash": "89e017acc40c4e1fb171e5f4dffb48e6718e81633e640fdd16bd1287633d72cd",
+      "current_hash": "5a9ea25a72451d7b43eae52900d8996c04dad99a31f2a25e47ac1cc90b035924",
+      "metadata": {
+        "agent_id": "-AMSHITH",
+        "hostname": "AMSHITH",
+        "server_received": "2025-10-04T08:12:08.8063905Z",
+        "user": ""
+      }
+    },
+    {
+      "timestamp": "2025-10-04T08:12:08.8420089Z",
+      "message": "Stress test log 8",
+      "signature": "e465d66248734ba7322c0b4a08c80ccf817a9f92c7f1faba56d7cb7c11373255f173bd6873c7811f859fcee2fc7ad0535f44aa2908e8ad0a74853b4966f48c0f",
+      "pubkey": "e856fe43828e65277384faaa406436a4cd09bea547fde759beeab9651e76751d",
+      "prev_hash": "5a9ea25a72451d7b43eae52900d8996c04dad99a31f2a25e47ac1cc90b035924",
+      "current_hash": "ddf7ade4b426e9e6a049a10d0a35ea7d8752b4e66636997d92792046b829e74f",
+      "metadata": {
+        "agent_id": "-AMSHITH",
+        "hostname": "AMSHITH",
+        "server_received": "2025-10-04T08:12:08.8420089Z",
+        "user": ""
+      }
+    },
+    {
+      "timestamp": "2025-10-04T08:12:08.8770279Z",
+      "message": "Stress test log 9",
+      "signature": "3b489de507c25c5f9c31167054f6bcf6c153271ab665783558aa2997a64107f9e5c4fa7d67d0694a116f4f08658471c82baa36b26d9163baebc81ee05f97260d",
+      "pubkey": "e856fe43828e65277384faaa406436a4cd09bea547fde759beeab9651e76751d",
+      "prev_hash": "ddf7ade4b426e9e6a049a10d0a35ea7d8752b4e66636997d92792046b829e74f",
+      "current_hash": "78deb8e3f81f02f04155d80601702506117434024adad4b16cf9ad2bf697c07a",
+      "metadata": {
+        "agent_id": "-AMSHITH",
+        "hostname": "AMSHITH",
+        "server_received": "2025-10-04T08:12:08.8770279Z",
+        "user": ""
+      }
+    },
+    {
+      "timestamp": "2025-10-04T08:12:08.9139343Z",
+      "message": "Stress test log 10",
+      "signature": "bf664a907b402c1d0f079e5dbc983e70df8dc5c4dda7cc0015ecba4305c585c6665da559f2dcf22e8754e95fc7ffb1881788220de17d0f6f3e044acbc287ec07",
+      "pubkey": "e856fe43828e65277384faaa406436a4cd09bea547fde759beeab9651e76751d",
+      "prev_hash": "78deb8e3f81f02f04155d80601702506117434024adad4b16cf9ad2bf697c07a",
+      "current_hash": "0f96cd302e2727a4447dc9d2a8d3067cc5382cbfdd0373800f2df48c6ab11637",
+      "metadata": {
+        "agent_id": "-AMSHITH",
+        "hostname": "AMSHITH",
+        "server_received": "2025-10-04T08:12:08.9139343Z",
+        "user": ""
+      }
+    },
+    {
+      "timestamp": "2025-10-04T08:12:08.9494683Z",
+      "message": "Stress test log 11",
+      "signature": "9006782b6ca85a566a83bd1a2186b4a5ab6d24c4d6831e5c1cb3f9084bb0fa8c287af3265b7c5cd75b041ab17636cf51f0cb8a0a96b82446c2945f31f9024e0a",
+      "pubkey": "e856fe43828e65277384faaa406436a4cd09bea547fde759beeab9651e76751d",
+      "prev_hash": "0f96cd302e2727a4447dc9d2a8d3067cc5382cbfdd0373800f2df48c6ab11637",
+      "current_hash": "fc2fee7ac3033a42edbd626b637cd4c6fb998271df8faccbec59e54bc22bacf6",
+      "metadata": {
+        "agent_id": "-AMSHITH",
+        "hostname": "AMSHITH",
+        "server_received": "2025-10-04T08:12:08.9494683Z",
+        "user": ""
+      }
+    },
+    {
+      "timestamp": "2025-10-04T08:12:08.9837265Z",
+      "message": "Stress test log 12",
+      "signature": "2094b65b41bc7cc87586f2f85883c58c3cb508ab0e2f61d18a5a3c8855f50e6e0a8fb2ea4eca0183e15092750aed9829a2d532ed4671f5fd510dc6b6adcd8805",
+      "pubkey": "e856fe43828e65277384faaa406436a4cd09bea547fde759beeab9651e76751d",
+      "prev_hash": "fc2fee7ac3033a42edbd626b637cd4c6fb998271df8faccbec59e54bc22bacf6",
+      "current_hash": "6a69d170c54323d55bbd848f250050fe2edee4a4d6ef585a65770e0b6ea0e6f7",
+      "metadata": {
+        "agent_id": "-AMSHITH",
+        "hostname": "AMSHITH",
+        "server_received": "2025-10-04T08:12:08.9837265Z",
+        "user": ""
+      }
+    },
+    {
+      "timestamp": "2025-10-04T08:12:09.0198498Z",
+      "message": "Stress test log 13",
+      "signature": "5695e8e99aaa2de62f9ef28b291b09e0e5a90aa885fbc48734fecfe685e94a018c02313a13a46ed85c1e0cd9f5ac200f0ba310cc124c07c4375afddd74916804",
+      "pubkey": "e856fe43828e65277384faaa406436a4cd09bea547fde759beeab9651e76751d",
+      "prev_hash": "6a69d170c54323d55bbd848f250050fe2edee4a4d6ef585a65770e0b6ea0e6f7",
+      "current_hash": "54f7a2f4ab8f6fd3331c2f321cbe6c477198f1f77c7d18028669d3a17a47d360",
+      "metadata": {
+        "agent_id": "-AMSHITH",
+        "hostname": "AMSHITH",
+        "server_received": "2025-10-04T08:12:09.0198498Z",
+        "user": ""
+      }
+    },
+    {
+      "timestamp": "2025-10-04T08:12:09.0568133Z",
+      "message": "Stress test log 14",
+      "signature": "60853b4e0023c94fdbed53818fc0b3d98dd6d3bfc08b4345db1afe60cbc5b29d723518c035a5b9603900b1fc48cbe745a92ac66e589e14906b98f45e0e05de05",
+      "pubkey": "e856fe43828e65277384faaa406436a4cd09bea547fde759beeab9651e76751d",
+      "prev_hash": "54f7a2f4ab8f6fd3331c2f321cbe6c477198f1f77c7d18028669d3a17a47d360",
+      "current_hash": "a6566b4db9733bbea98c71673c66906dba9ef086c00714ace34865b73870792a",
+      "metadata": {
+        "agent_id": "-AMSHITH",
+        "hostname": "AMSHITH",
+        "server_received": "2025-10-04T08:12:09.0568133Z",
+        "user": ""
+      }
+    },
+    {
+      "timestamp": "2025-10-04T08:12:09.0908268Z",
+      "message": "Stress test log 15",
+      "signature": "6b404d4cbc41018336b38275ef59b4f901fe9515a9a5715e32f457f90f38c53510c0e1d23890e488ffd350b41416eb9fbf106431deaac43b102784a9b9032309",
+      "pubkey": "e856fe43828e65277384faaa406436a4cd09bea547fde759beeab9651e76751d",
+      "prev_hash": "a6566b4db9733bbea98c71673c66906dba9ef086c00714ace34865b73870792a",
+      "current_hash": "49699f262a26d7d66e27989c2b66b948cbbae8d41e8bc50170f797915be35389",
+      "metadata": {
+        "agent_id": "-AMSHITH",
+        "hostname": "AMSHITH",
+        "server_received": "2025-10-04T08:12:09.0908268Z",
+        "user": ""
+      }
+    },
+    {
+      "timestamp": "2025-10-04T08:12:09.1241721Z",
+      "message": "Stress test log 16",
+      "signature": "1cb738e7b5ca2074c63e42c888c50f0733bb2aea6fe46f5ac78d302c42dcd8a149f077ef6343b4c9bce21cdc459a9183d6b3e9772f677b007b36074aa5d0660f",
+      "pubkey": "e856fe43828e65277384faaa406436a4cd09bea547fde759beeab9651e76751d",
+      "prev_hash": "49699f262a26d7d66e27989c2b66b948cbbae8d41e8bc50170f797915be35389",
+      "current_hash": "0c40d664bc00d35aee0a66611a944a6667d0f389ea2e940e96033e601e587e7e",
+      "metadata": {
+        "agent_id": "-AMSHITH",
+        "hostname": "AMSHITH",
+        "server_received": "2025-10-04T08:12:09.1241721Z",
+        "user": ""
+      }
+    },
+    {
+      "timestamp": "2025-10-04T08:12:09.1617309Z",
+      "message": "Stress test log 17",
+      "signature": "c5763889d899d6f4bfac7f3204611724a59180266e2aef5f5b9bbe6e913e55fb7e33324c688dcbdcf988ee5d57365f8175aa0eaaea8e9a6938115f2dcd62a307",
+      "pubkey": "e856fe43828e65277384faaa406436a4cd09bea547fde759beeab9651e76751d",
+      "prev_hash": "0c40d664bc00d35aee0a66611a944a6667d0f389ea2e940e96033e601e587e7e",
+      "current_hash": "0e9c787b81ffc9ba195f9fcd116292e57142fb693df422fb5d72e66e5198720a",
+      "metadata": {
+        "agent_id": "-AMSHITH",
+        "hostname": "AMSHITH",
+        "server_received": "2025-10-04T08:12:09.1617309Z",
+        "user": ""
+      }
+    },
+    {
+      "timestamp": "2025-10-04T08:12:09.1958036Z",
+      "message": "Stress test log 18",
+      "signature": "8d855003f948905a42327f8956ddc899a2615f9d0e656d7ef97365036542e68688402242401a91779bee6f8d4940ac440734e4e1c091755a07086d7d2a2fec0c",
+      "pubkey": "e856fe43828e65277384faaa406436a4cd09bea547fde759beeab9651e76751d",
+      "prev_hash": "0e9c787b81ffc9ba195f9fcd116292e57142fb693df422fb5d72e66e5198720a",
+      "current_hash": "6e7c9835863cb84c53710b64744d7167d8899052764168a6362b077c2eab5bc1",
+      "metadata": {
+        "agent_id": "-AMSHITH",
+        "hostname": "AMSHITH",
+        "server_received": "2025-10-04T08:12:09.1958036Z",
+        "user": ""
+      }
+    },
+    {
+      "timestamp": "2025-10-04T08:12:09.2315153Z",
+      "message": "Stress test log 19",
+      "signature": "59d1708d7c822bf31bb841c507c57f1b5cb657989a0cdd1acf11c7ceb7746f105b72c988960f5f579c55ea4c6a2d32b8bb7183a73c4bc39df6cf156f22f55e09",
+      "pubkey": "e856fe43828e65277384faaa406436a4cd09bea547fde759beeab9651e76751d",
+      "prev_hash": "6e7c9835863cb84c53710b64744d7167d8899052764168a6362b077c2eab5bc1",
+      "current_hash": "e46719a5fe60f42fbda51f96924c591c36033219ae0e08cc9ab39e66871eafe5",
+      "metadata": {
+        "agent_id": "-AMSHITH",
+        "hostname": "AMSHITH",
+        "server_received": "2025-10-04T08:12:09.2315153Z",
+        "user": ""
+      }
+    },
+    {
+      "timestamp": "2025-10-04T08:12:09.2699727Z",
+      "message": "Stress test log 20",
+      "signature": "962e6c62b07593466fbd028f9fcf465563d90cd676a2b71dd96e54511df540d865fc87c689381163482bebad41eac3b9e6671b71fbe4d9831d401d60866b3e06",
+      "pubkey": "e856fe43828e65277384faaa406436a4cd09bea547fde759beeab9651e76751d",
+      "prev_hash": "e46719a5fe60f42fbda51f96924c591c36033219ae0e08cc9ab39e66871eafe5",
+      "current_hash": "514d239c9c2f5ac672f4c7614902d685821a1858991c5b441547e6261b93f5b9",
+      "metadata": {
+        "agent_id": "-AMSHITH",
+        "hostname": "AMSHITH",
+        "server_received": "2025-10-04T08:12:09.2699727Z",
+        "user": ""
+      }
+    },
+    {
+      "timestamp": "2025-10-04T08:16:17.1887837Z",
+      "message": "Test with env var",
+      "signature": "5ac02f01b91fd5312a5a17fdd224911283aac7546700cbf0a674e4b0a3c3bf51f39b3171ffa26bf02c3a6d81d7b6fbf141bae5c01c12a4fec309ecd4b0e8e908",
+      "pubkey": "e856fe43828e65277384faaa406436a4cd09bea547fde759beeab9651e76751d",
+      "prev_hash": "514d239c9c2f5ac672f4c7614902d685821a1858991c5b441547e6261b93f5b9",
+      "current_hash": "fb50982971a20bf1b7b8750b34fbc14980aa3100c8ff242c7175635415da3e60",
+      "metadata": {
+        "agent_id": "-AMSHITH",
+        "hostname": "AMSHITH",
+        "server_received": "2025-10-04T08:16:17.1887837Z",
+        "user": ""
+      }
+    },
+    {
+      "timestamp": "2025-10-04T08:17:07.1867772Z",
+      "message": "Test log message",
+      "signature": "12b00c0613963957b0a601c327652ac501641f072c40fb15d79f1a2418030e5e561c3cc145de1a546028e5ab41203bd2adb9441c9f9896fb84d72f0ad2ff1008",
+      "pubkey": "e856fe43828e65277384faaa406436a4cd09bea547fde759beeab9651e76751d",
+      "prev_hash": "fb50982971a20bf1b7b8750b34fbc14980aa3100c8ff242c7175635415da3e60",
+      "current_hash": "fbf9097b2b8415ad42bfc22700bd68e86ad0f32a0fa81e8cdbbd4e8db7c41f4a",
+      "metadata": {
+        "agent_id": "-AMSHITH",
+        "hostname": "AMSHITH",
+        "server_received": "2025-10-04T08:17:07.1867772Z",
+        "user": ""
+      }
+    },
+    {
+      "timestamp": "2025-10-04T08:17:50.1748993Z",
+      "message": "System startup",
+      "signature": "288865212c52097c2e86186aea85dba0f1d1a75e2d5d89896daec1223683f62c7648c6894cae07ec767b027a82c9aa9bf58cac6cca2f9875426fb953436eb901",
+      "pubkey": "f1e64bcdbc067901ec33a21d9083fd92f42abeb839e82a054bdf326b23e54f3c",
+      "prev_hash": "fbf9097b2b8415ad42bfc22700bd68e86ad0f32a0fa81e8cdbbd4e8db7c41f4a",
+      "current_hash": "438c177a5857936d771278f4b7a328fc323c19ead909038ca90d479daeda0a49",
+      "metadata": {
+        "agent_id": "-AMSHITH",
+        "hostname": "AMSHITH",
+        "server_received": "2025-10-04T08:17:50.1748993Z",
+        "user": ""
+      }
+    },
+    {
+      "timestamp": "2025-10-04T08:17:50.2130545Z",
+      "message": "User authentication successful",
+      "signature": "146b2076730271c30b0a29e5fe878ba1b0215fb5d05381ad1f843e2b5b90c95ecf21200890457baf1bee5c3ebf13509a950c1e52710aa24158bbc7fbaf7c9506",
+      "pubkey": "f1e64bcdbc067901ec33a21d9083fd92f42abeb839e82a054bdf326b23e54f3c",
+      "prev_hash": "438c177a5857936d771278f4b7a328fc323c19ead909038ca90d479daeda0a49",
+      "current_hash": "c846bdf84e613848255e0b6f00c5f05874bf68415ec697f4bebddbf9480aed8f",
+      "metadata": {
+        "agent_id": "-AMSHITH",
+        "hostname": "AMSHITH",
+        "server_received": "2025-10-04T08:17:50.2130545Z",
+        "user": ""
+      }
+    },
+    {
+      "timestamp": "2025-10-04T08:17:50.2524258Z",
+      "message": "File encryption: document.pdf",
+      "signature": "86d362075d4f4aba3dcd951bd77604ac421a8242d630065b48060cc7ab0282b6e12bd533afc3c8e53d8f2158e00e403ccd31667343d649b665047fc12516e00f",
+      "pubkey": "f1e64bcdbc067901ec33a21d9083fd92f42abeb839e82a054bdf326b23e54f3c",
+      "prev_hash": "c846bdf84e613848255e0b6f00c5f05874bf68415ec697f4bebddbf9480aed8f",
+      "current_hash": "7d6b840890ca99af843176320ac8a2238532a4ca9cb2d6de2ee134d42f535784",
+      "metadata": {
+        "agent_id": "-AMSHITH",
+        "hostname": "AMSHITH",
+        "server_received": "2025-10-04T08:17:50.2524258Z",
+        "user": ""
+      }
+    },
+    {
+      "timestamp": "2025-10-04T08:17:50.2911034Z",
+      "message": "Backup completed",
+      "signature": "96c4bec15fc5e392ed6d68e5c81188a14499abf0837fac93d5f3ad8c79c67e0fae44cd1377afcbdb0506a2f21cbc4466fc4ead0429047b9cf113c43cac6a7d01",
+      "pubkey": "f1e64bcdbc067901ec33a21d9083fd92f42abeb839e82a054bdf326b23e54f3c",
+      "prev_hash": "7d6b840890ca99af843176320ac8a2238532a4ca9cb2d6de2ee134d42f535784",
+      "current_hash": "2e224d7b13804ed34f332dc1003db09dc8e9d8cd1dae6462ba5be21d2da5388f",
+      "metadata": {
+        "agent_id": "-AMSHITH",
+        "hostname": "AMSHITH",
+        "server_received": "2025-10-04T08:17:50.2911034Z",
+        "user": ""
+      }
+    },
+    {
+      "timestamp": "2025-10-04T08:17:50.3305703Z",
+      "message": "Security scan: no threats detected",
+      "signature": "21bb4b3669ff70d0c4489c9716e8eb6f5cc6ae5ae425eb895f6e025de27ccd51347ad746878b38ad5a163fb6877ddeb3d564166de034a03a9233533b50b1140a",
+      "pubkey": "f1e64bcdbc067901ec33a21d9083fd92f42abeb839e82a054bdf326b23e54f3c",
+      "prev_hash": "2e224d7b13804ed34f332dc1003db09dc8e9d8cd1dae6462ba5be21d2da5388f",
+      "current_hash": "2c240f8f776d257ed207b63eab8e2c25040ab0c2b18da3d7efcd2c8008765e96",
+      "metadata": {
+        "agent_id": "-AMSHITH",
+        "hostname": "AMSHITH",
+        "server_received": "2025-10-04T08:17:50.3305703Z",
+        "user": ""
+      }
+    }
+  ]
+}
